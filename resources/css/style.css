@@ -28,7 +28,7 @@ html {
   display: block;
 }
 
-@media only screen and (min-width: 450px) and (max-width: 760px) {
+@media only screen and (min-width: 660px) and (max-width: 760px) {
   .main-content {
     top: 3.6625rem;
   }
@@ -89,7 +89,7 @@ header .mobile {
 }
 
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 660px) {
   header .desktop {
     display: none;
   }
@@ -126,7 +126,7 @@ header .mobile {
   }
 }
 
-@media only screen and (min-width: 550px) and (max-width: 760px) {
+@media only screen and (min-width: 660px) and (max-width: 760px) {
   header .desktop {
     display: none;
   }
